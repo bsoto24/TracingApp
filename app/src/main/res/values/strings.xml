@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tracingapp</string>
+    <string name="btn_home">Home</string>
+    <string name="direccion">Direccion</string>
+    <string name="celular">Celular</string>
+    <string name="estado">Estado</string>
+    <string name="capacidad">Capacidad</string>
+    <string name="costo">Costo</string>
+</resources>
